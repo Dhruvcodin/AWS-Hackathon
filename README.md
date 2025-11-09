@@ -1,4 +1,4 @@
 # AWS-Hackathon
-This project analyzes real-world IoT data collected from environmental sensors to understand how weather conditions affect energy consumption. Using the UCI Appliances Energy Prediction Dataset, the system processes temperature, humidity, and energy readings to visualize consumption trends and identify patterns in energy usage.
+This project focuses on analyzing household IoT data to understand patterns and trends in energy consumption. Using the UCI Appliances Energy Prediction Dataset, which records real household data such as indoor temperature, humidity, and energy meter readings, the project visualizes how energy usage changes throughout the day and across different conditions.
 
-The analysis is performed entirely in Python, utilizing libraries such as Pandas, NumPy, and Matplotlib. The project demonstrates how IoT-driven data can be used to generate insights that help optimize resource utilization and support smarter agricultural and household energy management.
+The goal is to extract insights from real household energy data, visualize consumption patterns, and identify factors that contribute to high energy demand. The analysis is entirely implemented in Python, making use of libraries like Pandas, NumPy, and Matplotlib for data handling, computation, and visualization.
